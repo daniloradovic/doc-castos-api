@@ -1,0 +1,10 @@
+{
+  "generator-openapi-repo": {
+    "importExistingSpec": false,
+    "name": "castos-doc",
+    "repo": "daniloradovic/doc-castos-api",
+    "splitSpec": false,
+    "samples": true,
+    "installSwaggerUI": true
+  }
+}
